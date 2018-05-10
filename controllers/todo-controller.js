@@ -10,7 +10,7 @@
      {task: "Wash Clothes",
     completed: false},
      {task: "Do Dishes",
-    completed: true},
+    completed: false},
      {task: "Take Out Dog",
     completed: false}
    ];
